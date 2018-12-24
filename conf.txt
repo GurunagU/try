@@ -1,4 +1,4 @@
 hi hello conflict time
 remote conflict 2
-
+remote conflict 2
 
